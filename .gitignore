@@ -6,10 +6,10 @@ Graphs/
 main/
 __pycache__/
 regression-ens/
+hooks/
 
 
 #Files
-ik-rh5-leg-5steps.*
-.csv
-.pdf
-.png
+*.csv
+*.pdf
+*.png
