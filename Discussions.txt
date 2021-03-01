@@ -1,0 +1,11 @@
+1. InternalError: Blas GEMM launch failed - GPU memory issue
+
+2. Impact of batch size on accuracy, a healthy increase can increase the effective usage while running in tf GPU, but might cause mem error due to being unable to handle the total size
+
+
+
+whenever I run the tf on GPU: I get the following error after the first run, due to GPU mem being constrained
+InternalError: Blas GEMM launch failed
+
+
+I will try now to fill all the gaps and generate more results for now. Try different variations with ensembles Do you have any other suggestions?

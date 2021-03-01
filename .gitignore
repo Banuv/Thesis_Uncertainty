@@ -1,0 +1,15 @@
+#ignore these folders and files from tracking
+
+#Folders
+.ipynb_checkpoints/
+Graphs/
+main/
+__pycache__/
+regression-ens/
+
+
+#Files
+ik-rh5-leg-5steps.*
+.csv
+.pdf
+.png
